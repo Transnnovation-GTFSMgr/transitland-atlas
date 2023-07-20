@@ -206,7 +206,7 @@
       "id": "f-linktransit~nc~us",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://api.transloc.com/gtfs/linktransit.zip"
+        "static_current": "https://mjcaction.com/MJC_GTFS_Public/link_nc_google_transit.zip"
       },
       "operators": [
         {
