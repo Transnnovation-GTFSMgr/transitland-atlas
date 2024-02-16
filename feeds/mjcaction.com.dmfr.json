@@ -5,10 +5,10 @@
       "id": "f-9q611-morrobaytransit",
       "spec": "gtfs",
       "urls": {
-        "static_current": "http://mjcaction.com/MJC_GTFS_Public/morrobay_google_transit.zip"
+        "static_current": ""
       },
       "tags": {
-        "managed_by": "mjc"
+        "managed_by": ""
       },
       "operators": [
         {
@@ -29,12 +29,12 @@
       "spec": "gtfs",
       "urls": {
         "static_historic": [
-          "http://mjcaction.com/MJC_GTFS_Public/cityofpaloalto_google_transit.zip"
+          ""
         ]
       },
       "tags": {
         "inactive": "true",
-        "managed_by": "mjc"
+        "managed_by": ""
       },
       "operators": [
         {
@@ -53,17 +53,17 @@
       "id": "f-9w-navajotransitsystem",
       "spec": "gtfs",
       "urls": {
-        "static_current": "http://mjcaction.com/MJC_GTFS_Public/navajo_google_transit.zip"
+        "static_current": ""
       },
       "tags": {
-        "managed_by": "mjc"
+        "managed_by": ""
       },
       "operators": [
         {
           "onestop_id": "o-9w-navajotransitsystem",
           "name": "Navajo Transit System",
           "tags": {
-            "managed_by": "mjc",
+            "managed_by": "",
             "us_ntd_id": "90005",
             "wikidata_id": "Q104868592"
           }
@@ -235,10 +235,10 @@
       "id": "f-c283-jamestownsklallam",
       "spec": "gtfs",
       "urls": {
-        "static_current": "http://mjcaction.com/MJC_GTFS_Public/sevencedars_google_transit.zip"
+        "static_current": ""
       },
       "tags": {
-        "managed_by": "mjc"
+        "managed_by": ""
       },
       "operators": [
         {
@@ -302,7 +302,7 @@
       "id": "f-dc~motorcoach",
       "spec": "gtfs",
       "urls": {
-        "static_current": "http://mjcaction.com/MJC_GTFS_Public/dcmotorcoach_google_transit.zip"
+        "static_current": ""
       }
     },
     {
@@ -318,7 +318,7 @@
         {
           "onestop_id": "o-dqcm2-dcstreetcar",
           "name": "DC Streetcar",
-          "website": "http://www.dcstreetcar.com",
+          "website": "https://dcstreetcar.com/",
           "associated_feeds": [
             {
               "gtfs_agency_id": "dc-streetcar"
@@ -331,6 +331,7 @@
             }
           ],
           "tags": {
+            "managed_by": "mjc"
             "twitter_general": "dcstreetcar",
             "us_ntd_id": "30012",
             "wikidata_id": "Q3537231"
@@ -342,7 +343,7 @@
       "id": "f-express-arrow",
       "spec": "gtfs",
       "urls": {
-        "static_current": "http://mjcaction.com/MJC_GTFS_Public/expressarrow_google_transit.zip"
+        "static_current": ""
       },
       "operators": [
         {
@@ -394,7 +395,7 @@
       "id": "f-makah",
       "spec": "gtfs",
       "urls": {
-        "static_current": "http://mjcaction.com/MJC_GTFS_Public/makah_google_transit.zip"
+        "static_current": ""
       }
     },
     {
@@ -442,6 +443,7 @@
             }
           ],
           "tags": {
+            "managed_by": "mjc"
             "twitter_general": "santafegov",
             "us_ntd_id": "60077",
             "wikidata_id": "Q7419573"
@@ -486,14 +488,14 @@
       "id": "f-sierra~vista~az",
       "spec": "gtfs",
       "urls": {
-        "static_current": "http://mjcaction.com/MJC_GTFS_Public/sierravista_google_transit.zip"
+        "static_current": ""
       }
     },
     {
       "id": "f-sqaxin~tribal~transit",
       "spec": "gtfs",
       "urls": {
-        "static_current": "http://mjcaction.com/MJC_GTFS_Public/squaxintribe_google_transit.zip"
+        "static_current": ""
       },
       "operators": [
         {
