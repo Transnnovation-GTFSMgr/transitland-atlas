@@ -682,7 +682,7 @@
       "id": "f-macomb~il~us",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://api.transloc.com/gtfs/wiu.zip"
+        "static_current": "https://passio3.com/macomb/passioTransit/gtfs/google_transit.zip"
       },
       "operators": [
         {
