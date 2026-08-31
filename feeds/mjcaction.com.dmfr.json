@@ -38,16 +38,19 @@
       "id": "f-c22-graysharbortransit",
       "spec": "gtfs",
       "urls": {
-        "static_current": "http://mjcaction.com/MJC_GTFS_Public/graysharbor_google_transit.zip"
+        "static_current": "https://gtfs.ghtransit.com/ght_wa_gtfs.zip "
+          "static_historic": [
+          "https://mjcaction.com/MJC_GTFS_Public/graysharbor_google_transit.zip"
+        ]
       },
       "tags": {
-        "managed_by": "mjc"
+        "managed_by": "Grays Harbor Transit"
       },
       "operators": [
         {
           "onestop_id": "o-c22-graysharbortransit",
           "name": "Grays Harbor Transit",
-          "website": "http://www.ghtransit.com",
+          "website": "https://www.ghtransit.com",
           "associated_feeds": [
             {
               "gtfs_agency_id": "ght"
@@ -65,16 +68,19 @@
       "id": "f-c28-clallamtransitsystem",
       "spec": "gtfs",
       "urls": {
-        "static_current": "http://mjcaction.com/MJC_GTFS_Public/clallam_google_transit.zip"
+        "static_current": "https://irp.cdn-website.com/0eaf265e/files/uploaded/clallam_transit_gtfs.zipp",
+         "static_historic": [
+          "https://mjcaction.com/MJC_GTFS_Public/clallam_google_transit.zip"
+        ]
       },
       "tags": {
-        "managed_by": "mjc"
+        "managed_by": "Clallam Transit"
       },
       "operators": [
         {
           "onestop_id": "o-c28-clallamtransitsystem",
           "name": "Clallam Transit System",
-          "website": "http://www.clallamtransit.com",
+          "website": "https://www.clallamtransit.com",
           "associated_feeds": [
             {
               "gtfs_agency_id": "CTS"
@@ -319,7 +325,10 @@
       "id": "f-south~central~regional~transit~district",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://mjcaction.com/MJC_GTFS_Public/scrtd_google_transit.zip"
+        "static_current": "https://passio3.com/scrtd/passioTransit/gtfs/google_transit.zip"
+        "static_historic": [
+          "https://mjcaction.com/MJC_GTFS_Public/scrtd_google_transit.zip"
+        ]
       },
       "operators": [
         {
